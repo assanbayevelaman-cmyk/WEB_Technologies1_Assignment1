@@ -1,0 +1,14 @@
+body {background-color:aliceblue;}
+.highlight {color:orange; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#main-heading {color:darkblue; font-family:'Courier New', Courier, monospace;}
+#header {background-color:khaki; padding: 25px 50px 75px 100px; border: 3px solid darkblue; margin-bottom: 20px;}
+#main-content {background-color:lightskyblue; padding: 50px 50px 50px 50px; border: 5px dashed darkgreen; margin: 20px 0;}
+#footer {background-color:lightgreen; padding: 100px 100px 100px 100px; border: 2px dotted darkgoldenrod; margin-top: 20px;}
+h3 {position:static; font-size: 24px;}
+h2 {font-family:Arial, Helvetica, sans-serif; position:relative; left: 20px; top: 10px; font-size: 2em;}
+h1 {position:absolute; top: 10px; left: 50px; font-size: 2rem;}
+img {width: 50%;}
+.box {width: 40%; padding: 20px; color:white;}
+.box-left {float:left;background-color:cornflowerblue;}
+.box-right {float:right;background-color:lightcoral;}
+.clear-fix {clear:both;}
